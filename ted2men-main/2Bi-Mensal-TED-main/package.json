@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "typescript": "^5.4.5"
+  },
+  "name": "ted2men-main",
+  "description": "Cauan Bueno, Leticia Gonçalves, Murilo Moret e Noemi Benedito ![Uploading Captura de Tela (12).png…]()",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
